@@ -8,7 +8,7 @@ body {
 header{
     position: relative;
     height: 550px;
-    background: url('/assets/images/d.jpg') no-repeat center center/cover;
+    background: url('/assets/images/header.png') no-repeat center center/cover;
     background-position: 0% 82%;
 }
 .header-container {
